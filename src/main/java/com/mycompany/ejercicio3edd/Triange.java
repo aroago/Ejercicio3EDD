@@ -9,6 +9,6 @@ package com.mycompany.ejercicio3edd;
  *
  * @author daw1
  */
-public class Scuare {
+class Triange {
     
 }
